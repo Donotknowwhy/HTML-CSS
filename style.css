@@ -1,0 +1,134 @@
+/* *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+} */
+/* .heading{
+    color: blue;
+    font-family: 'Lato', sans-serif;
+    font-weight: 900;
+    font-size: 50px;
+}
+
+h3{
+    color: #3eb489;
+}
+
+h1{
+    border: 4px solid red;
+    padding: 20px 0;
+    margin: 100px 0 100px 600px;
+    display: inline;
+    background-color: wheat;
+}
+
+strike,b,em,u{
+    border: red;
+    margin: 130px;
+    
+}
+
+textarea{
+    display: block;
+} */
+
+/* .container{
+    margin: 0 auto;
+    padding-top: 100px;
+    background-color: cadetblue;
+    position: relative;
+} */
+
+/* .content{
+    background-color: bisque;
+    float: left;
+} */
+
+/* .avatar{
+    width: 25%;
+    background-color: cadetblue;
+    
+} */
+
+/* .info{
+    background-color: coral;
+}  */
+
+.clearfix::after{
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* .date{
+    /* position: relative;
+    top: -460px;
+    left: 650px; */
+    /* position: fixed;
+    top: 0px;
+    left: 650px; */
+    /* position: absolute;
+    top: 0px;
+    left: 0px;
+}  */
+
+html{
+   font-family: 'Lato',sans-serif;
+}
+
+h1{
+    color: orangered;
+    font-size: 80px;
+    padding: 0 100px;
+}
+
+h2{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.avt_img{
+    float: left;
+}
+
+h4{
+    float: left;
+    padding: 10px;
+    font-size: 20px;
+    margin-top:  70px;
+    color: blue;
+}
+
+p{
+    margin-bottom: 40px;
+}
+
+input,textarea{
+    display: block;
+}
+
+input{
+    margin: 20px;
+    width: 100px;
+    margin-bottom: 100px;
+    padding: 10px 20px;
+}
+
+textarea{
+    width: 290px;
+}
+.container{
+    width: 1140px;
+    margin: 0 auto;
+    background-color: darkgray;
+    padding: 0 20px;
+}
+
+.content{
+    width: 75%;
+    float: left;
+}
+
+form{
+    width: 25%;
+    float: left;
+}
